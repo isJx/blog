@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: VitePress
-  text: Vite & Vue powered static site generator.
+  name: isJx
+  text: 先随便写点啥
   tagline: Lorem ipsum...
   image:
     # src: /logo.png
