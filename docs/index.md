@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: isJx
-  text: 先随便写点啥
+  text: 先随便写点啥...
   tagline: Lorem ipsum...
   image:
     # src: /logo.png
