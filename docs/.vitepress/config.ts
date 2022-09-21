@@ -5,8 +5,8 @@ export default defineConfig({
   base:'/blog/',
 
   themeConfig:{
-    nav:[
-      {text:'首页',link:'/'}
-    ]
+    socialLinks:[{
+      icon:'github',link:'https://github.com/isJx'
+  }],
   }
 })
